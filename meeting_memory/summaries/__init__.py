@@ -1,0 +1,2 @@
+"""Meeting summary generation module."""
+

@@ -1,0 +1,9 @@
+___pycache__/
+*.pyc
+.venv/
+venv/
+data/*.db
+data/*.sqlite
+.env
+streamlit.err.log
+streamlit.out.log
